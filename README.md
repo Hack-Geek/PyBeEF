@@ -30,3 +30,6 @@ This Tool provides the list of options to the user and each option performs diff
 <br/><br/>
 ## Note: 
 This tool is designed for the purpose of testing browsers functionalities, use tool in ethical way. The main aim of this tool is used to know about how BeEF is working in real time
+
+## More Infomation:
+To know more about Brower Exploitation Framework refer the link <a href="https://github.com/Hack-Geek/PyBeEF/wiki">BeEF</a>
