@@ -216,7 +216,7 @@ class Beef_Project:
         print(f'\t{"-"*100}')
         print('\t\t\t\tBROWSER * EXPLOITATION * FRAMEWORK')
         print(f'\t{"-"*100}')
-        print(f'\t\t\t\t@AUTHOR: SRINIVAS KONDAPALLY')
+        print(f'\t\t\t\t@AUTHOR: SRINIVAS REDDY KALUTLA')
         print(f'\t{"-"*100}\n')
 
     def user_choice(self):
